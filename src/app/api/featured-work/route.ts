@@ -2,16 +2,16 @@ import { NextResponse } from "next/server";
 
 const featureWork = [
     {
-        title: "Branding + Web Design for Cleaning Services",
-        description: "Developed a modern brand identity and a responsive web experience tailored for a professional cleaning company, focused on clarity and usability.",
-        roles: ["UX Designer", "Framer Designer"],
-        image: "/images/feature-work/feature-img-1.png"
+        title: "Web Design & deployment for School",
+        description: "Designed and deployed a responsive web platform for a school, creating a clear and user-friendly digital experience that emphasizes accessibility, usability, and modern design tailored to the needs of students, teachers, and parents.",
+        roles: ["FUll Stack Developer"],
+        image: "/images/feature-work/learning.png"
     },
     {
-        title: "Brand Identity for a Health Care Company",
-        description: "Created a distinctive visual identity and design language to build trust and empathy for a forward-thinking health care provider.",
-        roles: ["UX Designer", "Framer Designer"],
-        image: "/images/feature-work/feature-img-2.png"
+        title: "Finding bugs in my own code",
+        description: "The bug occurs due to a mistake in the logical flow of the code, where the condition or sequence of operations does not match the intended outcome.",
+        roles: ["Master Debugger in AI"],
+        image: "/images/feature-work/bug.jpeg"
     }
 ]
 
