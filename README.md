@@ -1,11 +1,3 @@
-# Typefolio - NextJs Template
-
-#### Preview
-
- - [Demo](https://themewagon.github.io/Typefolio/)
-
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/Typefolio/)
 
 ## Getting Started
 
@@ -29,14 +21,6 @@ pnpm dev
 bun dev
 ```
 
-## Author 
-```
-Design and code is completely written by Getnextjstemplates and Wrappixel team. 
-```
 
-## License
 
- - Design and Code is Copyright &copy; [Getnextjstemplates](https://getnextjstemplates.com)
- - Licensed cover under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
 
